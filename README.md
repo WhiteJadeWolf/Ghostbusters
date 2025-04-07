@@ -29,19 +29,32 @@ Just **double-click** the executable file to launch the game!
 ---
 
 ## 🚀 Usage
+- Clone this repo to your local system
 
-You can either:
+  You can do this, either by :
+  - **Downloading this repo as ZIP** (from CODE dropdown) and extracting it.
 
-- **Double-click the executable file**  
-  *(Created using `pyinstaller`)*
+    **OR**
 
-**OR**
+  - **Running this command*** in terminal in some directory :
+    ```bash
+    git clone https://github.com/WhiteJadeWolf/Ghostbusters
+  
+- To start playing, you can either:
 
-- **Run `main.py`** from your terminal or code editor :
+  - **Double-click the executable file**  
+    *(Created using `pyinstaller`)*
 
-  ```bash
-  python main.py
+    **OR**
 
+  - **Run `main.py`** from your terminal or code editor :
+
+    ```bash
+    python main.py
+
+**🔔 Note:** I'm currently developing a package/module for this game that will be installable via `pip`. Once installed, you’ll be able to start playing by simply running the provided executable file.
+
+ 
 ---
 
 ## 👾 Gameplay
@@ -115,6 +128,8 @@ To play the level you just created:
 - Ensure that all files and assets are placed in their correct relative paths.
 - To create your own levels, use **`level_editor.exe`**.
 - The leaderboard only records completed runs (all 3 levels by default).
+- I'm currently developing a package/module for this game that will be installable via `pip`. Once installed, you’ll be able to start playing by simply running the provided executable file.
+
 
 ---
 
