@@ -7,7 +7,7 @@ The game features **tile-based physics**, **smooth scrolling**, and **parallax a
 
 ![GhostBusters Logo](https://imgur.com/gallery/ghostbusters-logo-y9CxMkO)
 
-![GhostBusters Gameplay](https://imgur.com/gallery/ghostbusters-gameplay-b9IoTBx)
+![GhostBusters Gameplay]([https://imgur.com/gallery/ghostbusters-gameplay-b9IoTBx](https://imgur.com/a/b9IoTBx))
 
 ---
 
