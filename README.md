@@ -33,9 +33,27 @@ You can either:
 
   ```bash
   python main.py
-The objective of the game is to reach and clear the final level in order to win the game. 
-In the way you'll encounter several ghosts who you have to kill and remember don't get killed otherwise you have to start the game from the beginning. 
-If less on health find potion jars to get some health.
+
+## 🕹️ Gameplay
+
+### 🎯 Objective
+
+Your goal is to **reach and complete the final level** to win the game. Each level increases in difficulty and brings new challenges.
+
+---
+
+### 👻 Enemies
+
+Throughout the game, you’ll encounter **various ghosts** that you must defeat.  
+Be careful — if you're killed, you'll have to **restart the game from the beginning**.
+
+---
+
+### ❤️ Health Tip
+
+Running low on health?  
+Keep an eye out for **potion jars** placed throughout the levels.  
+Collecting them will **restore your health** and improve your chances of survival.
 
 ## Controls
 
