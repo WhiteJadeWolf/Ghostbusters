@@ -1,13 +1,13 @@
-[![forthebadge](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNTQuNzUwMDExNDQ0MDkxOCIgaGVpZ2h0PSIzNSIgdmlld0JveD0iMCAwIDE1NC43NTAwMTE0NDQwOTE4IDM1Ij48cmVjdCB3aWR0aD0iODcuOTY4NzU3NjI5Mzk0NTMiIGhlaWdodD0iMzUiIGZpbGw9IiMzMUM0RjMiLz48cmVjdCB4PSI4Ny45Njg3NTc2MjkzOTQ1MyIgd2lkdGg9IjY2Ljc4MTI1MzgxNDY5NzI3IiBoZWlnaHQ9IjM1IiBmaWxsPSIjMzg5QUQ1Ii8+PHRleHQgeD0iNDMuOTg0Mzc4ODE0Njk3MjY2IiB5PSIyMS41IiBmb250LXNpemU9IjEyIiBmb250LWZhbWlseT0iJ1JvYm90bycsIHNhbnMtc2VyaWYiIGZpbGw9IiNGRkZGRkYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGxldHRlci1zcGFjaW5nPSIyIj5NQURFIEJZPC90ZXh0Pjx0ZXh0IHg9IjEyMS4zNTkzODQ1MzY3NDMxNiIgeT0iMjEuNSIgZm9udC1zaXplPSIxMiIgZm9udC1mYW1pbHk9IidNb250c2VycmF0Jywgc2Fucy1zZXJpZiIgZmlsbD0iI0ZGRkZGRiIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC13ZWlnaHQ9IjkwMCIgbGV0dGVyLXNwYWNpbmc9IjIiPldPTEY8L3RleHQ+PC9zdmc+)](https://forthebadge.com)
+[made-by-wolf](https://github.com/WhiteJadeWolf/Ghostbusters/blob/main/Assets/made-by-wolf.svg)
 
 # 👻 GhostBusters
 
 **GhostBusters** is a small platformer game made with **Pygame**.  
 The game features **tile-based physics**, **smooth scrolling**, and **parallax animations** for a retro-style gaming experience.
 
-![GhostBusters Logo](https://imgur.com/a/y9CxMkO)
+![GhostBusters Logo](https://github.com/WhiteJadeWolf/Ghostbusters/blob/main/Assets/ghostlogo.jpg)
 
-![GhostBusters Gameplay](https://imgur.com/gallery/ghostbusters-logo-y9CxMkO)
+![GhostBusters Gameplay](https://github.com/WhiteJadeWolf/Ghostbusters/blob/main/Assets/Recording2025-04-07194656-ezgif.com-video-to-gif-converter.mp4)
 
 ---
 
