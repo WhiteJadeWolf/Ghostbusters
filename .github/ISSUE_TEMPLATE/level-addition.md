@@ -10,4 +10,5 @@ assignees: ''
 **Include level number**
 
 **Screenshots or GIFs**
+
 you may include screenshots or GIFs of the level.
