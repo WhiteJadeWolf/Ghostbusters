@@ -151,7 +151,7 @@ Check out [this section](#i-have-a-question)
 
 ### Improving The Readable Files
 
-Any improvement suggestions for **Readable Files** related to this project is openly accepted. [Contact me][#contact-me]
+Any improvement suggestions for **Readable Files** related to this project is openly accepted. [Contact me](#contact-me)
 
 ### Commit Messages
 
