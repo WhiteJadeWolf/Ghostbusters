@@ -2,7 +2,7 @@
 name: Level Addition
 about: Add new Levels to the game.
 title: LEVEL
-labels: ''
+labels: 'level'
 assignees: ''
 
 ---
