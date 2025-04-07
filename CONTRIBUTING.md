@@ -10,6 +10,8 @@ All types of contributions are encouraged and valued. See the [Table of Contents
 > - Refer this project in your project's readme
 > - Mention the project at local meetups and tell your friends/colleagues
 
+---
+
 ## Table of Contents
 
 - [Code of Conduct](#code-of-conduct)
@@ -17,12 +19,15 @@ All types of contributions are encouraged and valued. See the [Table of Contents
   - [I Want To Contribute](#i-want-to-contribute)
   - [Reporting Bugs](#reporting-bugs)
   - [Suggesting Enhancements](#suggesting-enhancements)
-  - [Your First Code Contribution](#your-first-code-contribution)
-  - [Improving The Documentation](#improving-the-documentation)
-- [Styleguides](#styleguides)
+- [Your First Code Contribution](#your-first-code-contribution)
+  - [Recommended Tools](#recommended-tools)
+  - [Make a Contribution](#make-a-contribution)
+  - [Need Help?](#need-help)
+  - [Improving the Readable Files](#improving-the-readable-files)
   - [Commit Messages](#commit-messages)
-- [Join The Project Team](#join-the-project-team)
+- [Contact Me](#contact-me)
 
+---
 
 ## Code of Conduct
 
@@ -31,6 +36,7 @@ This project and everyone participating in it is governed by the
 By participating, you are expected to uphold this code. Please report unacceptable behavior
 to <shuvrangshubarua@gmail.com>.
 
+---
 
 ## I Have a Question
 
@@ -45,6 +51,8 @@ If you then still feel the need to ask a question and need clarification, we rec
 - Provide project and platform versions, depending on what seems relevant.
 
 We will then take care of the issue as soon as possible.
+
+---
 
 ## I Want To Contribute
 
@@ -92,7 +100,7 @@ This section guides you through submitting an enhancement suggestion for Ghostbu
 #### Before Submitting an Enhancement
 
 - Make sure that you are using the latest version.
-- Read the [documentation]() carefully and find out if the functionality is already covered, maybe by an individual configuration.
+- Read the [README file](https://github.com/WhiteJadeWolf/Ghostbusters/blob/main/README.md) carefully and find out if the functionality is already covered, maybe by an individual configuration.
 - Perform a [search](https://github.com/WhiteJadeWolf/Ghostbusters/issues) to see if the enhancement has already been suggested. If it has, add a comment to the existing issue instead of opening a new one.
 - Find out whether your idea fits with the scope and aims of the project. It's up to you to make a strong case to convince the project's developers of the merits of this feature. Keep in mind that we want features that will be useful to the majority of our users and not just a small subset. If you're just targeting a minority of users, consider writing an add-on/plugin library.
 
@@ -105,6 +113,8 @@ Enhancement suggestions are tracked as [GitHub issues](https://github.com/WhiteJ
 - **Describe the current behavior** and **explain which behavior you expected to see instead** and why. At this point you can also tell which alternatives do not work for you.
 - You may want to **include screenshots or screen recordings** which help you demonstrate the steps or point out the part which the suggestion is related to. You can use [LICEcap](https://www.cockos.com/licecap/) to record GIFs on macOS and Windows, and the built-in [screen recorder in GNOME](https://help.gnome.org/users/gnome-help/stable/screen-shot-record.html.en) or [SimpleScreenRecorder](https://github.com/MaartenBaert/ssr) on Linux. 
 - **Explain why this enhancement would be useful** to most Ghostbusters users. You may also want to point out the other projects that solved it better and which could serve as inspiration.
+
+---
 
 ## Your First Code Contribution
 
@@ -157,6 +167,8 @@ Any improvement suggestions for **Readable Files** related to this project is op
 
 Please provide brief but accurate description in commit messages. Please don't commit with arbitrary messages.
 
+---
+
 ## Contact Me
 
 **Feel free to reach out to me for new projects via email. Kindly include all relevant details, and let me know how you came across my contact information. Please refrain from sending spam.**<br><br>
@@ -165,3 +177,5 @@ Please provide brief but accurate description in commit messages. Please don't c
 ---
 
 ## THANK YOU FOR YOUR PRECIOUS TIME. CHEERS !
+
+---
