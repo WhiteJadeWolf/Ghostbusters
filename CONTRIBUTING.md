@@ -116,8 +116,8 @@ Thanks for your interest! Follow these quick steps to contribute:
 
 1. **Fork & Clone**
    ```bash
-   git clone https://github.com/yourusername/your-game-project.git
-   cd your-game-project
+   git clone https://github.com/WhiteJadeWolf/Ghostbusters
+   cd <directory where you cloned the project>
 
 ### Improving The Documentation
 <!-- TODO
