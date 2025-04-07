@@ -1,4 +1,4 @@
-#👻 GhostBusters
+# 👻 GhostBusters
 
 **GhostBusters** is a small platformer game made with **Pygame**.  
 The game features **tile-based physics**, **smooth scrolling**, and **parallax animations** for a retro-style gaming experience.
