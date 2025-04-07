@@ -149,24 +149,19 @@ Thanks for your interest! Follow these quick steps to contribute:
 
 Check out [this section](#i-have-a-question)
 
-### Improving The Documentation
-<!-- TODO
-Updating, improving and correcting the documentation
+### Improving The Readable Files
 
--->
+Any improvement suggestions for **Readable Files** related to this project is openly accepted. [Contact me][#contact-the-creator]
 
-## Styleguides
 ### Commit Messages
-<!-- TODO
 
--->
+Please provide brief but accurate description in commit messages. Please don't commit with arbitrary messages.
 
-## Contact The Creator
+## Contact Me
 
 **Feel free to reach out to me for new projects via email. Kindly include all relevant details, and let me know how you came across my contact information. Please refrain from sending spam.**<br><br>
 **My Email account :** <shuvrangshubarua@gmail.com>
 
-
-
+---
 
 ## THANK YOU FOR YOUR PRECIOUS TIME. CHEERS !
