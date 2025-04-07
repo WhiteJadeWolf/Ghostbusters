@@ -38,7 +38,7 @@ You can either:
 
 ---
 
-## 🕹️ Gameplay
+## 👾 Gameplay
 
 ### 🎯 Objective
 
@@ -57,32 +57,71 @@ Collecting them will **restore your health** and improve your chances of surviva
 
 ---
 
-## Controls
+## 🕹️ Controls
 
-* Left arrow key or A to go left
-* Right arrow key or D to go right
-* Up arrow key or W to jump
-* G to throw grenade
-* press ESC to escape the game
+| Action            | Key(s)               |
+|-------------------|----------------------|
+| Move Left         | ← Arrow or `A`       |
+| Move Right        | → Arrow or `D`       |
+| Jump              | ↑ Arrow or `W`       |
+| Throw Grenade     | `G`                  |
+| Exit Game         | `ESC`                |
 
-## Level Editor
+---
 
-* To open the level editor, you can click on the Level Editor option in main menu. Alternatively, you can run level_editor.py in the main folder or run 'level_editor.exe' file.
-* By default, level editor starts with level 4 so that accidental edits of existing levels are avoided.
-* The blank space in sprite selector is the eraser -- so use it accordingly.
-* If you want to load an existing level's map, use <- -> buttons on the bottom right to select the level and then press 'LOAD'.
-* Saving existing levels with new level designs will replace the old one.
-* To scroll along the map, use arrow keys.
-* Once you are done with the level design, you can save it. To play the level, open main.py with any code editor and change 'level' parameter to the corresponding level where you saved it. Also, you can add it to the queue of existing levels by following the order of levels and changing 'MAX_LEVEL' parameter accordingly.
+## 🛠️ Level Editor
+
+You can access the level editor in two ways:
+
+- Click on **Level Editor** from the main menu.
+- Run `level_editor.py` or `level_editor.exe`.
 
 
-## NOTE :--
+### 🧩 Editor Features & Tips
 
-* Please install the latest python version in your system before running the game. (pip is automatically installled)
-* pygame module is required to run the game. pip is required to install the module.
-* Make sure all files and assets are properly installed in required relative paths.
-* If you want to create your own levels, run 'level_editor.exe'
-* Leaderboard in the game will only be updated with the records of the games (all 3 levels, by default) you have won.
+- Starts with **Level 4 by default** to avoid accidental edits of existing levels.
+- The **blank tile** in the sprite selector acts as an **eraser**.
+- To load an existing level's map:
+  - Use the `<-` and `->` buttons at the bottom right.
+  - Select the desired level and press **LOAD**.
+- Saving will **overwrite** the selected level's map.
+- Use **arrow keys** to scroll along the map.
+- Once done with designing, press **SAVE**.
 
-## CHECK CONTRIBUTION.md FILE FOR ANY VOLUNTARY CONTRIBUTION OFFER.
-## THANK YOU FOR TRYING OUT MY SMALL PROJECT. HOPE YOU LIKE IT :
+### ▶️ Play Your Custom Level
+
+To play the level you just created:
+
+1. Open `main.py` in a code editor.
+2. Change the `level` parameter to your new level number.
+3. (Optional) Add your level to the queue by updating the `MAX_LEVEL` parameter accordingly.
+
+---
+
+## ⚠️ Important Notes
+
+- Make sure you have the **latest version of Python** installed on your system.
+- `pip` is usually included with Python and is required to install modules.
+- The game requires the **`pygame` module**, which can be installed using :
+
+  ```bash
+  pip install pygame
+- Ensure that all files and assets are placed in their correct relative paths.
+- To create your own levels, use **`level_editor.exe`**.
+- The leaderboard only records completed runs (all 3 levels by default).
+
+---
+
+## 🤝 Contribution
+
+If you'd like to contribute to this project voluntarily,  
+please check out the [CONTRIBUTING.md](./CONTRIBUTING.md) file for guidelines.
+
+---
+
+## 🙏 Thanks
+
+Thank you for checking out my small project.  
+**Hope you enjoy the game!** 🎉
+
+---
