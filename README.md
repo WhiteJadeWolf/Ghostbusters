@@ -1,17 +1,23 @@
-# GhostBusters
+# 👻 GhostBusters
 
-GhostBusters is a small platformer game made with pygame. The game uses tiles based physics along with scrolling and parallax animations.
+**GhostBusters** is a small platformer game made with **Pygame**.  
+The game features **tile-based physics**, **smooth scrolling**, and **parallax animations** for a retro-style gaming experience.
 
+---
 
-## How to Play?
+## 🎮 How to Play?
 
-Double click on the executable file to play the game
-(.exe file created with the help of pyinstaller module, special thanks to CODE WITH RUSS for his video on that topic.)
+Just **double-click** the executable file to launch the game!  
+> *(The `.exe` was created using `pyinstaller` — special thanks to **CODE WITH RUSS** for his helpful video on the topic.)*
 
+---
 
-## Requirements
+## 📦 Requirements
 
-install pygame module by writing the following lines in the interpreter :   pip install pygame
+Install the `pygame` module by running:
+ ```bash
+ pip install pygame
+
 
 ## Usage
 
