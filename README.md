@@ -14,10 +14,11 @@ Just **double-click** the executable file to launch the game!
 
 ## 📦 Requirements
 
-Install the `pygame` module by running:
- ```bash
- pip install pygame
+Install the `pygame` module by running :
 
+  ```bash
+  pip install pygame
+```
 
 ## Usage
 
