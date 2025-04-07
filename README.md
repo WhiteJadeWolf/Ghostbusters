@@ -22,8 +22,6 @@ Just **double-click** the executable file to launch the game!
 
 ## 🚀 Usage
 
-## 🚀 Usage
-
 You can either:
 
 - **Double-click the executable file**  
