@@ -107,10 +107,17 @@ Enhancement suggestions are tracked as [GitHub issues](https://github.com/WhiteJ
 - **Explain why this enhancement would be useful** to most Ghostbusters users. You may also want to point out the other projects that solved it better and which could serve as inspiration.
 
 ### Your First Code Contribution
-<!-- TODO
-include Setup of env, IDE and typical getting started instructions?
 
--->
+Thanks for your interest! Follow these quick steps to contribute:
+
+---
+
+## 🔧 Setup Instructions
+
+1. **Fork & Clone**
+   ```bash
+   git clone https://github.com/yourusername/your-game-project.git
+   cd your-game-project
 
 ### Improving The Documentation
 <!-- TODO
