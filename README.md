@@ -5,7 +5,7 @@
 **GhostBusters** is a small platformer game made with **Pygame**.  
 The game features **tile-based physics**, **smooth scrolling**, and **parallax animations** for a retro-style gaming experience.
 
-![GhostBusters Logo](https://github.com/WhiteJadeWolf/Ghostbusters/blob/main/Assets/ghostlogo.jpg)
+![GhostBusters Logo](https://github.com/WhiteJadeWolf/Ghostbusters/blob/main/Assets/ghosty.jpg)
 
 ![GhostBusters Gameplay](https://github.com/WhiteJadeWolf/Ghostbusters/blob/main/Assets/Recording2025-04-07194656-ezgif.com-video-to-gif-converter.mp4)
 
