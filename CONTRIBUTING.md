@@ -116,26 +116,30 @@ Thanks for your interest! Follow these quick steps to contribute:
 - [Python](https://www.python.org/downloads/) (mandatory)
 - [Pygame](https://www.pygame.org/news) (mandatory)
   Run the following command in terminal :
+  
   ```bash
   pip install pygame
 - [Pyinstaller](https://pyinstaller.org/en/stable/usage.html)
   Run the following command in terminal :
+  
   ```bash
   pip install pyinstaller
 - Optional : [Black](https://black.readthedocs.io/en/stable/), [Pylint](https://pypi.org/project/pylint/) for formatting.
-- 
 
 ### Make A Contribution
 
 1. **Create New Branch :**
+
    ```bash
    git checkout -b feature-name
 
 2. **Make Changes and Commit :**
+
    ```bash
    git commit -m "Short description of changes"
 
 3. **Push and Open a Pull Request (PR) :**
+
    ```bash
    git push origin feature-name
 
