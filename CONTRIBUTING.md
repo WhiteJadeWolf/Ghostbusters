@@ -126,7 +126,8 @@ Updating, improving and correcting the documentation
 
 ## Contact The Creator
 
-**Feel free to reach out to me for new projects via email. Kindly include all relevant details, and let me know how you came across my contact information. Please refrain from sending spam.
+**Feel free to reach out to me for new projects via email. Kindly include all relevant details, and let me know how you came across my contact information. Please refrain from sending spam.**
+**My Email account :** <shuvrangshubarua@gmail.com>
 
 
 
