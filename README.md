@@ -28,15 +28,20 @@ Just **double-click** the executable file to launch the game!
 
 ---
 
+## ⬇️ Download Link
+
+**[Ghostbusters.zip](https://github.com/WhiteJadeWolf/Ghostbusters/archive/refs/heads/main.zip)**
+
+---
+
 ## 🚀 Usage
-- Clone this repo to your local system
 
   You can do this, either by :
-  - **Downloading this repo as ZIP** (from CODE dropdown) and extracting it.
+  - **Downloading this repo as ZIP** (from [here](https://github.com/WhiteJadeWolf/Ghostbusters/archive/refs/heads/main.zip)) and extracting it.
 
     **OR**
 
-  - **Running this command*** in terminal in some directory :
+  - **Running this command*** in terminal within some directory in your system :
     ```bash
     git clone https://github.com/WhiteJadeWolf/Ghostbusters
   
@@ -54,7 +59,6 @@ Just **double-click** the executable file to launch the game!
 
 **🔔 Note:** I'm currently developing a package/module for this game that will be installable via `pip`. Once installed, you’ll be able to start playing by simply running the provided executable file.
 
- 
 ---
 
 ## 👾 Gameplay
