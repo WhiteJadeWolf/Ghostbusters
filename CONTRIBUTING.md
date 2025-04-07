@@ -106,16 +106,44 @@ Enhancement suggestions are tracked as [GitHub issues](https://github.com/WhiteJ
 - You may want to **include screenshots or screen recordings** which help you demonstrate the steps or point out the part which the suggestion is related to. You can use [LICEcap](https://www.cockos.com/licecap/) to record GIFs on macOS and Windows, and the built-in [screen recorder in GNOME](https://help.gnome.org/users/gnome-help/stable/screen-shot-record.html.en) or [SimpleScreenRecorder](https://github.com/MaartenBaert/ssr) on Linux. 
 - **Explain why this enhancement would be useful** to most Ghostbusters users. You may also want to point out the other projects that solved it better and which could serve as inspiration.
 
-### Your First Code Contribution
+## Your First Code Contribution
 
 Thanks for your interest! Follow these quick steps to contribute:
 
-#### Setup Instructions
+### Recommended Tools
 
-1. **Fork & Clone**
+- [Visual Studio Code](https://code.visualstudio.com/Download)
+- [Python](https://www.python.org/downloads/) (mandatory)
+- [Pygame](https://www.pygame.org/news) (mandatory)
+  Run the following command in terminal :
+  ```bash
+  pip install pygame
+- [Pyinstaller](https://pyinstaller.org/en/stable/usage.html)
+  Run the following command in terminal :
+  ```bash
+  pip install pyinstaller
+- Optional : [Black](https://black.readthedocs.io/en/stable/), [Pylint](https://pypi.org/project/pylint/) for formatting.
+- 
+
+### Make A Contribution
+
+1. **Create New Branch :**
    ```bash
-   git clone https://github.com/WhiteJadeWolf/Ghostbusters
-   cd <directory where you cloned the project>
+   git checkout -b feature-name
+
+2. **Make Changes and Commit :**
+   ```bash
+   git commit -m "Short description of changes"
+
+3. **Push and Open a Pull Request (PR) :**
+   ```bash
+   git push origin feature-name
+
+📌 Please include relevant details in your PR and mention how you found this project. Avoid spammy submissions.
+
+### Need Help?
+
+Check out [this section](#i-have-a-question)
 
 ### Improving The Documentation
 <!-- TODO
