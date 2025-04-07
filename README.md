@@ -121,7 +121,7 @@ please check out the [CONTRIBUTING.md](./CONTRIBUTING.md) file for guidelines.
 
 ## 🙏 Thanks
 
-Thank you for checking out my small project.  
+Thank you for checking out my small project. ❤️
 **Hope you enjoy the game!** 🎉
 
 ---
