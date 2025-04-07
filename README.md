@@ -20,6 +20,8 @@ Just **double-click** the executable file to launch the game!
   ```bash
   pip install pygame
 
+---
+
 ## 🚀 Usage
 
 You can either:
@@ -34,26 +36,26 @@ You can either:
   ```bash
   python main.py
 
+---
+
 ## 🕹️ Gameplay
 
 ### 🎯 Objective
 
 Your goal is to **reach and complete the final level** to win the game. Each level increases in difficulty and brings new challenges.
 
----
-
 ### 👻 Enemies
 
 Throughout the game, you’ll encounter **various ghosts** that you must defeat.  
 Be careful — if you're killed, you'll have to **restart the game from the beginning**.
-
----
 
 ### ❤️ Health Tip
 
 Running low on health?  
 Keep an eye out for **potion jars** placed throughout the levels.  
 Collecting them will **restore your health** and improve your chances of survival.
+
+---
 
 ## Controls
 
