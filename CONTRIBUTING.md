@@ -110,9 +110,7 @@ Enhancement suggestions are tracked as [GitHub issues](https://github.com/WhiteJ
 
 Thanks for your interest! Follow these quick steps to contribute:
 
----
-
-## 🔧 Setup Instructions
+## Setup Instructions
 
 1. **Fork & Clone**
    ```bash
