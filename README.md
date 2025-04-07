@@ -115,7 +115,7 @@ To play the level you just created:
 ## 🤝 Contribution
 
 If you'd like to contribute to this project voluntarily,  
-please check out the [CONTRIBUTING.md](./CONTRIBUTING.md) file for guidelines.
+please check out the [CONTRIBUTING.md](https://github.com/WhiteJadeWolf/Ghostbusters/blob/main/CONTRIBUTING.md) file for guidelines.
 
 ---
 
