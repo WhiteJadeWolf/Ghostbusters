@@ -31,7 +31,8 @@ You can either:
 
 **OR**
 
-- **Run `main.py`** from your terminal or code editor:
+- **Run `main.py`** from your terminal or code editor :
+
   ```bash
   python main.py
 The objective of the game is to reach and clear the final level in order to win the game. 
