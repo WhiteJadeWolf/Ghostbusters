@@ -20,9 +20,20 @@ Just **double-click** the executable file to launch the game!
   ```bash
   pip install pygame
 
-## Usage
+## 🚀 Usage
 
-Double click on the executable file to play the game (alternatively, you can run main.py to run the game)
+## 🚀 Usage
+
+You can either:
+
+- **Double-click the executable file**  
+  *(Created using `pyinstaller`)*
+
+**OR**
+
+- **Run `main.py`** from your terminal or code editor:
+  ```bash
+  python main.py
 The objective of the game is to reach and clear the final level in order to win the game. 
 In the way you'll encounter several ghosts who you have to kill and remember don't get killed otherwise you have to start the game from the beginning. 
 If less on health find potion jars to get some health.
