@@ -22,7 +22,7 @@ All types of contributions are encouraged and valued. See the [Table of Contents
 - [Your First Code Contribution](#your-first-code-contribution)
   - [Recommended Tools](#recommended-tools)
   - [Make a Contribution](#make-a-contribution)
-  - [Need Help?](#need-help)
+  - [Need Help?](#i-have-a-question)
   - [Improving the Readable Files](#improving-the-readable-files)
   - [Commit Messages](#commit-messages)
 - [Contact Me](#contact-me)
