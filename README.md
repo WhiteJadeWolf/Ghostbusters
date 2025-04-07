@@ -7,7 +7,7 @@ The game features **tile-based physics**, **smooth scrolling**, and **parallax a
 
 ![GhostBusters Logo](https://github.com/WhiteJadeWolf/Ghostbusters/blob/main/Assets/ghosty.jpg)
 
-![GhostBusters Gameplay](https://github.com/user-attachments/assets/b4250be0-3082-4b8e-8c5a-4223dd9f34e4)
+![Ghostbusters Gameplay](https://github.com/user-attachments/assets/6f735515-7bdc-4e7d-b295-05bef0908eb6)
 
 ---
 
