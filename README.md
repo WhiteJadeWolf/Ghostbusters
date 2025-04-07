@@ -1,4 +1,4 @@
-[made-by-wolf](https://github.com/WhiteJadeWolf/Ghostbusters/blob/main/Assets/made-by-wolf.svg)
+![made-by-wolf](https://github.com/WhiteJadeWolf/Ghostbusters/blob/main/Assets/made-by-wolf.svg)
 
 # 👻 GhostBusters
 
