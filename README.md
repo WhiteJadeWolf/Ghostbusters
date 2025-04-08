@@ -41,7 +41,7 @@ Just **double-click** the executable file to launch the game!
 
     **OR**
 
-  - **Running this command*** in terminal within some directory in your system :
+  - **Running this command** in terminal within some directory in your system :
     ```bash
     git clone https://github.com/WhiteJadeWolf/Ghostbusters
   
@@ -87,6 +87,7 @@ Collecting them will **restore your health** and improve your chances of surviva
 | Move Left         | ← Arrow or `A`       |
 | Move Right        | → Arrow or `D`       |
 | Jump              | ↑ Arrow or `W`       |
+| Shoot             | `space`              |
 | Throw Grenade     | `G`                  |
 | Exit Game         | `ESC`                |
 
@@ -94,9 +95,12 @@ Collecting them will **restore your health** and improve your chances of surviva
 
 ## 🛠️ Level Editor
 
-You can access the level editor in two ways:
+You can access the level editor in two ways :
 
 - Click on **Level Editor** from the main menu.
+
+  **OR**
+  
 - Run `level_editor.py` or `level_editor.exe`.
 
 
@@ -123,7 +127,7 @@ To play the level you just created:
 
 ## ⚠️ Important Notes
 
-- Make sure you have the **latest version of Python** installed on your system.
+- Make sure you have the **[latest version of Python](https://www.python.org/downloads/)** installed on your system.
 - `pip` is usually included with Python and is required to install modules.
 - The game requires the **`pygame` module**, which can be installed using :
 
@@ -148,5 +152,7 @@ please check out the [CONTRIBUTING.md](https://github.com/WhiteJadeWolf/Ghostbus
 
 Thank you for checking out my small project. ❤️
 **Hope you enjoy the game!** 🎉
+
+**PS - Please STAR ⭐ this Project to show your support**
 
 ---
